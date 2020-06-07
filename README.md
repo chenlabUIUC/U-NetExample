@@ -16,7 +16,7 @@ The code was tested in Google Colab
 
 Note
 ---------------
-1.The first step is to mount your Google drive and direct to your script location.
+1.The first step is to mount your Google drive and direct to your script location.(provided in the script)  
 2.Don't forget to enable the GPU acceleration in Google Colab.
 
 Revisions
