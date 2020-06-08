@@ -5,7 +5,7 @@ For more information about the project, algorithms, and related publications ple
 
 Reference
 ---------------
-If you find our approach useful, please cite: L. Yao, Z. Ou, B. Luo, C. Xu, Q. Chen, "Machine-learning based segmentation of liquid-phase TEM videos to map interaction landscape, anisotropic etching, and self-assembly of nanoparticles" sumbitted (2020)
+If you find our approach useful, please cite: L. Yao, Z. Ou, B. Luo, C. Xu, Q. Chen, "Machine learning to reveal nanoparticle dynamics from liquid-phase TEM videos" sumbitted to ACS Central Science (2020)
 
 Getting started
 ---------------
