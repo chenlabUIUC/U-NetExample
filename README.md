@@ -10,8 +10,8 @@ If you find our approach useful, please cite: L. Yao, Z. Ou, B. Luo, C. Xu, Q. C
 Getting started
 ---------------
 The code was tested in Google Colab  
-1. download the script("TrainingExample.ipynb") and "data.zip".  
-2. Unzip "data.zip" and upload the unzipped folder and the script to your Google drive.  
+1. download the script("TrainingExample.ipynb") and "data".  
+2. Upload the folder and the script to your Google drive.  
 3. Run the script with Google Colab.  
 
 Note
